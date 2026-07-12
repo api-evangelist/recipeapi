@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://recipeapi.io
 common:
+  - type: DomainSecurity
+    url: security/recipeapi-domain-security.yml
   - type: Website
     url: https://recipeapi.io
   - type: PublicAPIsListing
